@@ -26,18 +26,18 @@ The generated results across tasks are shown in logs.
 ## Cases
 
 <p align="center">
-   <img src="figs/case-arc.pdf" alt="" style="width: 70%;">
+   <img src="figs/case-arc.jpg" alt="" style="width: 70%;">
 </p>
 
 <p align="center">
-   <img src="figs/case-concept.pdf" alt="" style="width: 70%;">
+   <img src="figs/case-concept.jpg" alt="" style="width: 70%;">
 </p>
 
 <p align="center">
-   <img src="figs/case-1d.pdf" alt="" style="width: 70%;">
+   <img src="figs/case-1d.jpg" alt="" style="width: 70%;">
 </p>
 
 <p align="center">
-   <img src="figs/case-mini.pdf" alt="" style="width: 70%;">
+   <img src="figs/case-mini.jpg" alt="" style="width: 70%;">
 </p>
 
