@@ -8,7 +8,7 @@ We propose mixture program-based data synthesis strategies for enhancing perform
 - High-level DSL-based synthesis (inspired by [Hodel's Re-arc](https://github.com/michaelhodel/re-arc))
 - Shuffle-based synthesis
 
-The generated results across tasks are shown in logs.
+The generated results across multiple ARC tasks are shown in `logs`.
 
 ## Results
 
